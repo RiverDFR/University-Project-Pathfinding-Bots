@@ -707,7 +707,7 @@ The project report attempts to show the progression of how and why building a ro
 
 [10] Allaire, F.C.J., Tarbouchi, M., Labonté, G. and Fusina, G. (2008). FPGA Implementation of Genetic Algorithm for UAV Real-Time Path Planning. Unmanned Aircraft Systems, 54(1), pp.495–510. doi:10.1007/978-1-4020-9137-7_26.
 
-[11] brilliant.org. (n.d.). A* Search | Brilliant Math & Science Wiki. [online] Available at: https://brilliant.org/wiki/a-starsearch/#:~:text=The%20A%2A%20Algorithm%201%20f%20%28%20n%29%20f [Accessed 4May 2022].
+[11] brilliant.org. (n.d.). A* Search | Brilliant Math & Science Wiki. [online] Available at: https://brilliant.org/wiki/a-star-search/#:~:text=The%20A%2A%20Algorithm%201%20f%20%28%20n%29%20f [Accessed 4May 2022].
 
 [12] www.sparkfun.com. (n.d.). Search Results for XBee - SparkFun Electronics. [online] Available at: https://www.sparkfun.com/search/results?term=XBee [Accessed 4 May 2022].
 
